@@ -1,0 +1,11 @@
+{
+    "color_ranges": {
+        "red1": {"lower_hsv": [0, 40, 150],"upper_hsv": [10, 150, 255]},
+        "red2": {"lower_hsv": [160, 40, 150], "upper_hsv": [180, 150, 255]},
+        "purple": {"lower_hsv": [120, 15, 65],"upper_hsv": [160, 200, 255]},
+        "blue": {"lower_hsv": [90, 50, 80],"upper_hsv": [140, 255, 255]}
+    },
+    "roi": {"crop_top_ratio": 0.2,"crop_side_ratio": 0.3},
+    "detection_threshold": 0.1,
+    "debug_mode": true
+}
